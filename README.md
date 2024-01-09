@@ -6,7 +6,6 @@ Exploratory Data Analysis (EDA) is a process in data analysis that involves exam
 Use pd.read_csv() or other appropriate methods to load your dataset into a Pandas DataFrame.
      
       import pandas as pd
-
-# Load data
-df = pd.read_csv('your_dataset.csv')
+      # Load data
+      df = pd.read_csv('your_dataset.csv')
 
