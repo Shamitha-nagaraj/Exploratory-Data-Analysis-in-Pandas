@@ -8,6 +8,7 @@ Use pd.read_csv() or other appropriate methods to load your dataset into a Panda
       import pandas as pd
       # Load data
       df = pd.read_csv('your_dataset.csv')
+      
 ## 2.Understanding Data Structure:
 
 Use df.head() to view the first few rows of the dataset.
