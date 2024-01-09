@@ -68,7 +68,6 @@ Visualize correlations using a heatmap in Seaborn.
      plt.show()
 
 ## 7.Categorical Data Exploration:
-
 Explore relationships in categorical data using bar plots and count plots.
 
      # Bar plot for a categorical column
